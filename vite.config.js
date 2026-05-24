@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  base: "/for-her/",
+  base: "/formylove.github.io/",
   plugins: [react(), tailwindcss()],
 });
